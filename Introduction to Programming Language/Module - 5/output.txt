@@ -1,2 +1,1 @@
-ALPHA
-is Capital
+5 50
